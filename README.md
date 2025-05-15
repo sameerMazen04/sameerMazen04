@@ -61,7 +61,6 @@
 
 ---
 
-<h2 align="center">🐍 GitHub Contribution Snake</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ahmedaldarabee/ahmedaldarabee/output/github-contribution-grid-snake.svg" alt="snake animation"/>
@@ -86,5 +85,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1100&color=00FFF0&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+GitHub+profile!+Let's+build+cool+stuff+together." alt="Typing SVG Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1100&color=00FFF0&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+GitHub+profile!+Let's+build+cool+stuff+together." alt="Typing SVG Footer" />
 </p>
