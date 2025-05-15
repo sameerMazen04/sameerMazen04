@@ -1,71 +1,90 @@
-# 🚀 Sameer Sandoqa – Full Stack Developer Portfolio
-
-![Profile Views](https://komarev.com/ghpvc/?username=sameermazen&style=flat-square&color=blue)
-
-Welcome to my dev space! I’m a passionate Software Engineering student on a mission to turn ideas into intuitive digital experiences. I blend **code + design** to build functional, beautiful user interfaces. 💻🎨
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFF0&center=true&vCenter=true&width=700&lines=Hi+I'm+Sameer+Sandoqa;Full+Stack+Web+Developer;Passionate+about+UI%2FUX+Design;Always+Learning+%26+Building;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🧠 About Me
-
-- 🎓 Student @ Al-Balqa Applied University (2022–2026)
-- 🛠️ Focus: **HTML | CSS | JavaScript | React | UI/UX Design**
-- 🧩 Passionate about clean code and elegant user journeys
-- 📈 Always learning — currently deep diving into **React and Figma**
-
----
-
-## 📁 Featured Projects
-
-### ⚡ My Portfolio Website
-A sleek, personal site showcasing my:
-- 📄 Resume & skills
-- 🧩 Education and certifications
-- 💼 Contact and project links
-
-> *Built with pure HTML, CSS, and a touch of JavaScript magic.*
-
-🔗 [Live Demo](#) | 📁 `/my-portfolio-website`
-
----
-
-## 🧪 Tech Stack & Tools
+<h2 align="center">👨‍💻 About Me</h2>
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=fff)
+🎓 Software Engineering Student @ Al-Balqa Applied University (2022–2026)  
+💻 Full Stack Developer focused on **React**, **JavaScript**, and **UI/UX**  
+🎨 Design lover — skilled in **Figma** & transforming concepts into code  
+📈 Currently expanding knowledge in frontend frameworks & APIs  
+🌟 Always learning, always building, always improving!
 
 </div>
 
 ---
 
-## 🏅 Certifications
+<h2 align="center">🚀 Tech Stack</h2>
 
-- ✅ **HTML and CSS in Depth** – Meta, Oct 2024  
-- ✅ **React Basics** – Meta, Nov 2024  
-- ✅ **JavaScript Programming** – Meta, Nov 2024  
-- ✅ **Principles of UX/UI Design** – Meta, Nov 2024
-
----
-
-## 🗣️ Languages
-
-- 🗨️ English – Intermediate  
-- 🌐 Arabic – Native
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,github,vscode" />
+</p>
 
 ---
 
-## 📬 Contact Me
+<h2 align="center">📂 Featured Project</h2>
 
-- 📧 sameermazen757@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/sameer-mazen-a41a0b316)  
-- 🐙 GitHub: [@sameermazen](https://github.com/sameermazen)
+<p align="center">
+  <strong>💼 My Portfolio Website</strong><br/>
+  A responsive personal website that showcases my education, projects, skills, and contact info.<br/>
+  Built using <code>HTML</code>, <code>CSS</code>, and <code>JavaScript</code> with a clean, user-first layout.
+</p>
+
+<p align="center">
+  🔗 <a href="#">Live Demo</a> | 📁 <a href="#">View Repo</a>
+</p>
 
 ---
 
-⭐ *Thanks for visiting! Feel free to explore, clone, or reach out.*  
-> “Code is not just logic. It's a form of art.” 🎨💻
+<h2 align="center">📜 Certifications</h2>
+
+<div align="center">
+
+✅ HTML and CSS in Depth – Meta, Oct 2024  
+✅ React Basics – Meta, Nov 2024  
+✅ Programming with JavaScript – Meta, Nov 2024  
+✅ Principles of UX/UI Design – Meta, Nov 2024  
+
+</div>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sameermazen&theme=tokyonight" />
+</p>
+
+---
+
+<h2 align="center">🐍 GitHub Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmedaldarabee/ahmedaldarabee/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+<h2 align="center">📬 Let's Connect</h2>
+
+<p align="center">
+  <a href="mailto:sameermazen757@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sameer-mazen-a41a0b316/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sameermazen">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1100&color=00FFF0&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+GitHub+profile!+Let's+build+cool+stuff+together." alt="Typing SVG Footer" />
+</p>
