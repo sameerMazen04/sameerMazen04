@@ -8,7 +8,7 @@
 
 <div align="center">
 
-🎓 Software Engineering Student @ Al-Balqa Applied University (2022–2026)  
+🎓Computer Scince Student @ Al-Balqa Applied University (2022–2026)  
 💻 Full Stack Developer focused on **React**, **JavaScript**, and **UI/UX**  
 🎨 Design lover — skilled in **Figma** & transforming concepts into code  
 📈 Currently expanding knowledge in frontend frameworks & APIs  
